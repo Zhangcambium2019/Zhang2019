@@ -1,9 +1,0 @@
-# TO GENERATE THE KNOCKOUT PREDICTIONS RUN THE FOLLOWING:
-python final_datasets_initial_extractnetwork.py
-python final_datasets_initial_melisparenetwork_enhanced_simplified.py
-python knockout_github.py final_datasets_initial_network.dat
-python knockout_github.py final_datasets_initial_par_enh_sim.dat
-
-# THE PREDICTIONS ARE IN THE .knock OUTPUT FILES:
-final_datasets_initial_network.dat.knock
-final_datasets_initial_par_enh_sim.dat.knock
