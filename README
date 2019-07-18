@@ -3,7 +3,7 @@
 #New folder/Cambium network_code_final
 Description: Codes and paremeters for TFs network construction 
 
-#LGX parameters.txt
+#LGX_parameters.txt
 Description: Softwere parameters used for LithographX analysis
 
 #Codes and R packages for box plots and violin plots.rtf
